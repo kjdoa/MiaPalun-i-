@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+img {width: 200px;
+height: 200px;}
+body{background-color: beige}
+
+h2{font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-style: italic;
+	color: burlywood;
+  font-size: 24px;
+
